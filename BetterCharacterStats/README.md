@@ -1,7 +1,7 @@
 BetterCharacterStats - a World of Warcraft (1.12.1) AddOn
 ===================================================
 
-![preview](https://raw.githubusercontent.com/yutsuku/BetterCharacterStats/gh-pages/images/BetterCharacterStats.png)
+![preview](https://github.com/Wruktarr/TurtleWoWAddOnFork_BetterCharacterStats/assets/57686795/d0f6c595-23fc-450d-8e74-c9dd9dbcc1fb)
 
 Installation:
 
